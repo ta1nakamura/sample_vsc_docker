@@ -1,3 +1,3 @@
 <!--?php 
-echo "hoge test2";
+echo "fuga";
 ?-->

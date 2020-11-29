@@ -10,3 +10,7 @@ VSCODE、Dockerによる開発環境構築
   - https://qiita.com/masashi127/items/2e103c3fba9d1b058961#status
 - [memo] よく使うGIT
   - https://qiita.com/ta1nakamura/items/5396fca0af08afa7762f
+
+
+# 問題
+動作しない。Dockerコンテナ側のApacheが起動していないっぽい
